@@ -4,7 +4,7 @@
 
 <hr> </hr>
 
-# <a href="https://tinyurl.com/yfjtkf8z" target="_blank">1. Task 1: Prediction using supervised ML</a>
+# <a href="https://tinyurl.com/yfjtkf8z" target="_blank">1. Task 1: Prediction Using Supervised ML</a>
 
 <hr> </hr>
 
