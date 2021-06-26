@@ -9,7 +9,7 @@
 <hr> </hr>
 
 
-# <a href="https://tinyurl.com/ydnw5are" target="_blank"> 2. Task 2: Timeline Analysis: Covid-19 </a>
+# <a href="https://tinyurl.com/ydnw5are" target="_blank"> 2. Task 8: Timeline Analysis: Covid-19 </a>
 
 <hr> </hr>
 
