@@ -10,7 +10,7 @@
 ### You cal also check it out the detailed explanation here : https://lnkd.in/dwHUfVQ
 
 
-<img src="covid-19 dashboard.jpg"  alt="Trulli" width="800" height="500">
+<img src="covid-19 dashboard.jpg"  alt="Trulli" width="1200" height="600">
 
 <hr>    </hr>
-
+<hr>    </hr>
