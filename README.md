@@ -1,6 +1,6 @@
 # The_Sparks_Foundation
 
-### Check out  Task, Just click on a Task:
+### To Check out Task, Just click on a Task:
 
 <hr> </hr>
 
